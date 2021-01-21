@@ -3,7 +3,7 @@ This repository contains draft documentation/artefacts that are open for feedbac
 
 # What's inside (in development)
 
-##1. Draft guidance for Invoice Routing
+## 1. Draft guidance for Invoice Routing
 
 This draft guidance document is about how an invoice should be ‘routed’ to the appropriate destination, e.g. where a receiving organisation (i.e. corner 4) have multiple ‘business units’ or systems that processes, approves and pays invoices.
 
@@ -16,7 +16,7 @@ Alternatively a combination of both options may be an optimal solution for some 
 
 We would like to hear your thoughts, experiences or comments.  
 
-##2. Peppol International Invoicing Model
+## 2. Peppol International Invoicing Model
 
 This document describes the semantic data model, which defines a set of business terms for invoices, that can be used in an international context. 
 It is developed by the Peppol PINT working group in 2020 and this version is the final draft.  More information can be found at: https://openpeppol.atlassian.net/wiki/spaces/PINT/overview. 
@@ -24,7 +24,7 @@ It is developed by the Peppol PINT working group in 2020 and this version is the
 If you are interested in PINT, you are welcome to use this document and/or provide feedback. 
 
 
-##3. PINT A-NZ Invoice Data Model
+## 3. PINT A-NZ Invoice Data Model
 
 This spreadsheet is a working draft including the PINT data model and business rules.   It highlights the differences to BIS Billing 3.0 and the A-NZ BIS extension.
 Refer to notes in column I for context / justifications for additional elements the PINT model (a super set) has incorporated. 
