@@ -1,5 +1,9 @@
 # Draft-artefacts-for-review
-This repository contains draft documentation/artefacts that are open for feedback. We will send formal communications within conexts and/or instructions when inviting comments and will use links to this repository to avoid spamming your inbox.  
+This repository contains draft documentation/artefacts that under review / development. They may not be final draft and should not be assumed to be candidates for formal releases. 
+
+When seeking feedback, the A-NZ Peppol Authorities will send formal communication with context and/or instructions. 
+Interested parties are welcome to use these materials to get detailed information on particular topics. 
+
 
 # What's inside (in development)
 
