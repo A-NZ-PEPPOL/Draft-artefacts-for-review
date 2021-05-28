@@ -40,6 +40,6 @@ The A-NZ Peppol Authorities will provide formal updates and communications for P
 
 Please do not hesitate to get in touch if you have any feedback or questions.
 
-The New Zealand PEPPOL Authority - support@nzpeppol.govt.nz
+The New Zealand Peppol Authority - support@nzpeppol.govt.nz
 
-The Australian Taxation Office - e-invoicing@ato.gov.au
+The Australian Peppol Authority - e-invoicing@ato.gov.au
