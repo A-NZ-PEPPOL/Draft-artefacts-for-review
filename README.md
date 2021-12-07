@@ -33,7 +33,7 @@ If you are interested in PINT, you are welcome to use this document and/or provi
 This spreadsheet is a working draft including the PINT data model and business rules.   It highlights the differences to BIS Billing 3.0 and the A-NZ BIS extension.
 Refer to notes in column I for context / justifications for additional elements the PINT model (a super set) has incorporated. 
 
-The A-NZ Peppol Authorities will provide formal updates and communications for PINT. However interested parties are welcome to check on its progresses and/or use it as supporting documentation for internal analysis.   
+The A-NZ Peppol Authorities will provide formal updates and communications for PINT. However, interested parties are welcome to check on its progresses and/or use it as supporting documentation for internal analysis.   
 
 
 # Feedback
