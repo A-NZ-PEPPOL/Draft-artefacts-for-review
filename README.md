@@ -42,4 +42,4 @@ Please do not hesitate to get in touch if you have any feedback or questions.
 
 The New Zealand Peppol Authority - support@nzpeppol.govt.nz
 
-The Australian Peppol Authority - e-invoicing@ato.gov.au
+The Australian Peppol Authority - einvoicing@ato.gov.au
