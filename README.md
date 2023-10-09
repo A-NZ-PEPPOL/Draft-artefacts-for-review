@@ -10,25 +10,29 @@ When seeking feedback, the A-NZ Peppol Authorities will send formal communicatio
 
 # What's inside
 
-## 1. Draft guidance for Invoice Routing (Dec 2020, under review)
-
-This is the initial draft document for how an invoice can be ‘routed’ to the appropriate destination, e.g. where a receiving organisation (i.e. corner 4) have multiple ‘business units’ or systems that processes, approves and pays invoices.
-
-The routing requirements vary for different businesses. This topic was discussed at the [A-NZ Peppol All Stakeholders Working Group](https://www.dspanz.org/committees/peppol/anz-peppol-all-stakeholders-working-group/) (ASWG) in November 2021. The group agreed that considerations to manage routing in Peppol need to be assessed case by case, and encouraged businesses who have this requirement to discuss with their service providers or the Peppol Authorities. 
-
-This document is being updated to capture specific use cases, feedback and considerations. It aims to support end users make comprehensive assessment and informed decisions to manage routing. 
-
-We welcome your feedback and comments. 
-
-## 2. Peppol International Invoicing Model
+## 1. Peppol International (PINT) Billing
 
 This repository is used to share the progress of PINT development for the A-NZ community. 
+### Draft PINT A-NZ specifications
+The draft [PINT A-NZ specifications](https://test-docs.peppol.eu/pint/pint-aunz/) were issued for [Peppol member review](https://openpeppol.atlassian.net/wiki/spaces/RR/pages/3152150529/2023.09.18+PINT+A-NZ+specifications+v0.9) by OpenPeppol on 18-Sep-23, with feedback via OpenPeppol due by 10-Nov-23.
+
+A spreadsheet cross-referencing between the current A-NZ and PINT A-NZ specifications is available [here](https://github.com/A-NZ-PEPPOL/Draft-artefacts-for-review/blob/main/PINT_A-NZ_to_current_rule_cross_reference.v0.1.xlsx). The information has been provided to assist service providers to understand the differences in the implementation of business rules, and is non-normative. In the case of any omissions or discrepancies, the published specification takes precedence.
+
+
+### Next steps
+The PINT A-NZ specifications will initially be available as optional specifications; however, the  Australian and New Zealand Peppol Authorities (A-NZ PAs) intend to consult with members about migrating from the existing A-NZ Invoice extension and Self-Billing specifications to the new PINT A-NZ specifications.
+
+The migration will be formalised in the coming months and will be supported by migration plans specifying the implementation period, at the end of which the PINT A-NZ specifications will be mandated.
+
+The A-NZ PAs will engage with SPs accredited in A-NZ to understand impacts and considerations to inform those draft migration plans.
+
+### History
 The context and background of PINT can be found at [Peppol International Invoicing Work Group - Confluence (atlassian.net)](https://openpeppol.atlassian.net/wiki/spaces/PINT/overview). 
-The Peppol PINT working group (led by OpenPeppol and consisting of Peppol Authorities, service providers and end users from Europe, Singapore, Australia, New Zealand and Japan) completed the initial draft PINT model in December 2020 (published May 2021). The draft PINT specification and A-NZ, EU, SG and JP jurisdiction specialisations were published in June 2022 to support the proof-of-concept testing by the [PINT Reference Group](https://openpeppol.atlassian.net/wiki/spaces/PINTPoC/pages/2431942672/PINT+PoC+Reference+Group).  
+The Peppol PINT working group (led by OpenPeppol and consisting of Peppol Authorities, service providers and end users from Europe, Singapore, Australia, New Zealand and Japan) completed the initial draft PINT model in December 2020 (published May 2021). 
 
-The most recent working draft PINT artefacts for A-NZ can be found at [A-NZ PINT Invoice Process](https://test-docs.peppol.eu/pint/pint-aunz/pint-aunz/), which will be updated as necessary to support the proof-of-concept. It is based on the current [A-NZ Peppol invoicing (BIS Billing) extension](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0), with the minimum changes required by the PINT model. 
+The draft PINT Billing specification and A-NZ, EU, SG and JP jurisdiction specialisations were published in June 2022 to support the proof-of-concept testing by the [PINT Reference Group](https://openpeppol.atlassian.net/wiki/spaces/PINTPoC/pages/2431942672/PINT+PoC+Reference+Group).  
 
-The A-NZ Peppol Authorities will provide formal updates and communications about proposals to implement PINT. However, interested parties are welcome to monitor its progress, use it as supporting documentation for internal analysis, and/or provide feedback. 
+The 'base' [PINT Billing specification](https://docs.peppol.eu/poac/pint/) was published in June 2023.
 
 
 # Feedback
