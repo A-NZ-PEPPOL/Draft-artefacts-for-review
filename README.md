@@ -13,18 +13,11 @@ When seeking feedback, the A-NZ Peppol Authorities will send formal communicatio
 ## 1. Peppol International (PINT) Billing
 
 This repository is used to share the progress of PINT development for the A-NZ community. 
-### Draft PINT A-NZ specifications
-The draft [PINT A-NZ specifications](https://test-docs.peppol.eu/pint/pint-aunz/) were issued for [Peppol member review](https://openpeppol.atlassian.net/wiki/spaces/RR/pages/3152150529/2023.09.18+PINT+A-NZ+specifications+v0.9) by OpenPeppol on 18-Sep-23, with feedback via OpenPeppol due by 10-Nov-23.
 
-A spreadsheet cross-referencing between the current A-NZ and PINT A-NZ specifications is available [here](https://github.com/A-NZ-PEPPOL/Draft-artefacts-for-review/blob/main/PINT_A-NZ_to_current_rule_cross_reference.v0.1.xlsx). The information has been provided to assist service providers to understand the differences in the implementation of business rules, and is non-normative. In the case of any omissions or discrepancies, the published specification takes precedence.
+### PINT A-NZ Published
+In December 2023 the new Peppol International (PINT) A-NZ Billing specification was published. The Australian and New Zealand Peppol Authorities have committed to migrating to that specification. The migration dates are confirmed, the PINT A-NZ Billing specification will become mandatory on 15 November 2024 and after 15 May 2025 the A-NZ Peppol BIS 3.0 extensions will be phased out and no longer available for use. You can view the new PINT A-NZ specifications [here](https://docs.peppol.eu/poac/aunz/).
 
-
-### Next steps
-The PINT A-NZ specifications will initially be available as optional specifications; however, the  Australian and New Zealand Peppol Authorities (A-NZ PAs) intend to consult with members about migrating from the existing A-NZ Invoice extension and Self-Billing specifications to the new PINT A-NZ specifications.
-
-The migration will be formalised in the coming months and will be supported by migration plans specifying the implementation period, at the end of which the PINT A-NZ specifications will be mandated.
-
-The A-NZ PAs will engage with SPs accredited in A-NZ to understand impacts and considerations to inform those draft migration plans.
+A spreadsheet cross-referencing between the current A-NZ and PINT A-NZ specifications is available [here](https://github.com/A-NZ-PEPPOL/A-NZ-PEPPOL-BIS-3.0/blob/master/Validation%20documents/Cross%20Reference%20of%20current%20rules%20to%20PINT%20A-NZ.xlsx). The information has been provided to assist service providers to understand the differences in the implementation of business rules, and is non-normative. In the case of any omissions or discrepancies, the published specification takes precedence.
 
 ### History
 The context and background of PINT can be found at [Peppol International Invoicing Work Group - Confluence (atlassian.net)](https://openpeppol.atlassian.net/wiki/spaces/PINT/overview). 
